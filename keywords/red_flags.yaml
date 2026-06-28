@@ -1,0 +1,29 @@
+weak_words:
+  - responsable de varias cosas
+  - amplio conocimiento
+  - experto
+  - excelente
+  - altamente calificado
+  - manejo de todo tipo
+  - resultados comprobados
+  - liderazgo excepcional
+avoid_structures:
+  - Parrafos largos sin bullets.
+  - Titulos creativos que oculten el cargo real.
+  - Tablas complejas para versiones ATS.
+  - Iconos, barras de progreso o graficos para habilidades.
+  - Fechas incompletas o contradictorias.
+  - Mezclar experiencia objetivo con experiencia comprobada.
+ats_risks:
+  - Usar SAP PM sin evidencia especifica; el CV solo menciona SAP/ERP.
+  - Declarar experiencia directa en oil & gas si solo se usa como vertical objetivo.
+  - Agregar metricas sin respaldo.
+  - Usar abreviaturas sin contexto cuando la oferta usa terminos completos.
+  - Omitir keywords exactas de la oferta si son verificables.
+  - Sobrecargar el CV con keywords no conectadas a experiencia real.
+replacement_rules:
+  - Cambiar "experto" por nivel verificable o herramienta concreta.
+  - Cambiar "resultados comprobados" por resultado real o TODO.
+  - Cambiar "manejo de SAP PM" por "SAP/ERP" hasta confirmar modulo.
+  - Cambiar "industria oil & gas" por "competencias transferibles a oil & gas" si no hay experiencia directa.
+

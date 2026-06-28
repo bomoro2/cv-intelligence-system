@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Aplicacion movil de gestion de mantenimiento",
+    "description": "Desarrollo personal orientado a talleres y mantenimiento industrial, integrando seguimiento de OTs, stock de repuestos, pedidos y analisis de fallas.",
+    "technologies": [
+      "Swift",
+      "Flutter/Dart"
+    ],
+    "todos": [
+      "TODO: nombre de la aplicacion.",
+      "TODO: estado actual del proyecto.",
+      "TODO: funcionalidades implementadas vs planificadas."
+    ]
+  }
+]
+

@@ -1,0 +1,20 @@
+category: cmms
+keywords:
+  - CMMS
+  - computerized maintenance management system
+  - ordenes de trabajo
+  - work orders
+  - avisos
+  - preventivos
+  - correctivos
+  - trazabilidad
+  - reportes
+  - SAP/ERP
+evidence_from_cv:
+  - Gestion y seguimiento de OTs, avisos, preventivos, correctivos y trazabilidad de tareas en sistema.
+  - SAP/ERP indicado como herramienta digital.
+rules:
+  - No decir SAP PM sin evidencia especifica.
+todos:
+  - "TODO: nombre exacto del sistema CMMS/ERP usado."
+

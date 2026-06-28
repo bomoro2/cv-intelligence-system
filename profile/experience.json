@@ -1,0 +1,48 @@
+[
+  {
+    "role": "Administrativo de Mantenimiento",
+    "company": "Hidrotec S.A.",
+    "location": "Salta",
+    "period": "Ene 2024 - Actualidad",
+    "responsibilities": [
+      "Gestion y seguimiento de OTs, avisos, preventivos, correctivos y trazabilidad de tareas en sistema.",
+      "Planificacion de mantenimientos, coordinacion de paradas, materiales, servicios externos y personal involucrado.",
+      "Control de repuestos, herramientas y materiales criticos para proyectos en zonas remotas.",
+      "Soporte tecnico y analisis de fallas recurrentes.",
+      "Participacion activa en auditorias operativas y mejora de reportes de mantenimiento."
+    ]
+  },
+  {
+    "role": "Ayudante de Perforacion",
+    "company": "Hidrotec S.A.",
+    "location": "Cordillera",
+    "period": "Feb 2022 - Feb 2023 / Jul 2023 - Ene 2024",
+    "responsibilities": [
+      "Operacion, puesta en marcha y mantenimiento basico de equipos de exploracion en altura y condiciones exigentes.",
+      "Experiencia practica en sistemas hidraulicos, motores y equipos de perforacion."
+    ]
+  },
+  {
+    "role": "Mecanico / Taller propio",
+    "company": "Actividad independiente",
+    "location": "Salta",
+    "period": "Ago 2020 - Ene 2022 / Jul 2025 - Actualidad",
+    "responsibilities": [
+      "Diagnostico y reparacion de vehiculos livianos, camionetas, motocicletas, tractores y maquinaria.",
+      "Presupuestos y atencion al cliente."
+    ]
+  },
+  {
+    "role": "Encargado de Operaciones",
+    "company": "Empresa de quebracho colorado",
+    "location": "Salta",
+    "period": "Feb 2019 - Ago 2020",
+    "responsibilities": [
+      "Coordinacion de personal.",
+      "Trato con clientes rurales.",
+      "Logistica de campo.",
+      "Ejecucion de estructuras rurales completas."
+    ]
+  }
+]
+

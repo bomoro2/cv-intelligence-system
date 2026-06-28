@@ -1,0 +1,20 @@
+{
+  "language": "es",
+  "tone": "profesional, tecnico, directo, compatible con ATS",
+  "avoid": [
+    "lenguaje inflado",
+    "metricas inventadas",
+    "SAP PM sin evidencia especifica",
+    "responsabilidades exageradas"
+  ],
+  "todo_policy": "Marcar informacion faltante con TODO claro y accionable.",
+  "output_formats": [
+    "Markdown",
+    "JSON",
+    "YAML",
+    "PDF",
+    "DOCX",
+    "HTML"
+  ]
+}
+

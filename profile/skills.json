@@ -1,0 +1,37 @@
+{
+  "maintenance": [
+    "OTs",
+    "avisos",
+    "preventivos",
+    "correctivos",
+    "paradas de planta",
+    "analisis de fallas"
+  ],
+  "spare_parts_logistics": [
+    "stock",
+    "materiales criticos",
+    "proveedores",
+    "trazabilidad",
+    "envios a proyecto"
+  ],
+  "digital_tools": [
+    "SAP/ERP",
+    "Excel avanzado",
+    "VBA",
+    "reportes",
+    "Power BI basico"
+  ],
+  "mechanics": [
+    "hidraulica",
+    "motores",
+    "perforacion",
+    "vehiculos livianos",
+    "tractores",
+    "maquinaria"
+  ],
+  "software": [
+    "Swift",
+    "Flutter/Dart"
+  ]
+}
+

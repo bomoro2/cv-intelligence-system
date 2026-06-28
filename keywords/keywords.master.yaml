@@ -1,0 +1,75 @@
+version: 1
+language: es
+source_profile: ../profile/profile.master.json
+categories:
+  mantenimiento:
+    - mantenimiento industrial
+    - ordenes de trabajo
+    - OTs
+    - avisos
+    - mantenimiento preventivo
+    - mantenimiento correctivo
+    - paradas de planta
+    - trazabilidad de tareas
+    - analisis de fallas
+    - equipos de campo
+  planificacion:
+    - planificacion de mantenimiento
+    - maintenance planning
+    - programacion de tareas
+    - coordinacion de paradas
+    - coordinacion de recursos
+    - servicios externos
+    - materiales
+  repuestos:
+    - repuestos
+    - spare parts
+    - stock
+    - materiales criticos
+    - herramientas
+    - proveedores
+    - trazabilidad
+    - envios a proyecto
+  mineria:
+    - mineria
+    - mining
+    - exploracion
+    - equipos de perforacion
+    - operaciones en altura
+    - zonas remotas
+  oil_gas:
+    - oil and gas
+    - oil & gas
+    - mantenimiento industrial
+    - equipos criticos
+    - operaciones remotas
+  fleet_management:
+    - fleet management
+    - mantenimiento de flota
+    - vehiculos livianos
+    - camionetas
+    - tractores
+    - maquinaria
+  reliability:
+    - reliability
+    - confiabilidad
+    - analisis de fallas
+    - fallas recurrentes
+    - reportes de mantenimiento
+  cmms:
+    - CMMS
+    - computerized maintenance management system
+    - ordenes de trabajo
+    - trazabilidad
+    - avisos
+    - preventivos
+    - correctivos
+  saas_industrial:
+    - industrial SaaS
+    - software de mantenimiento
+    - app de gestion de mantenimiento
+    - Flutter
+    - Dart
+    - Swift
+    - reportes
+

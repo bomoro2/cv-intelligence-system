@@ -1,0 +1,186 @@
+{
+  "identity": {
+    "full_name": "Bonifacio Morales Romero",
+    "location": "Salta, Argentina",
+    "phone": "3872-209161",
+    "email": "bonifacio.morales18@gmail.com",
+    "age": 30,
+    "headline": "Tecnico Industrial | Planificacion de Mantenimiento | Gestion de OTs y Repuestos",
+    "source": "input/CV_Bonifacio_Morales.pdf"
+  },
+  "target_roles": [
+    "Planificador de mantenimiento",
+    "Administrativo de mantenimiento",
+    "Analista de mantenimiento",
+    "Coordinador de repuestos",
+    "Soporte tecnico de mantenimiento",
+    "Fleet maintenance support",
+    "Maintenance planner",
+    "CMMS maintenance analyst"
+  ],
+  "experience": [
+    {
+      "role": "Administrativo de Mantenimiento",
+      "company": "Hidrotec S.A.",
+      "location": "Salta",
+      "start": "2024-01",
+      "end": "Actualidad",
+      "responsibilities": [
+        "Gestion y seguimiento de OTs, avisos, preventivos, correctivos y trazabilidad de tareas en sistema.",
+        "Planificacion de mantenimientos, coordinacion de paradas, materiales, servicios externos y personal involucrado.",
+        "Control de repuestos, herramientas y materiales criticos para proyectos en zonas remotas.",
+        "Soporte tecnico y analisis de fallas recurrentes.",
+        "Participacion en auditorias operativas y mejora de reportes de mantenimiento."
+      ],
+      "todos": [
+        "TODO: cantidad de OTs mensuales.",
+        "TODO: cantidad de equipos gestionados.",
+        "TODO: sistemas exactos usados.",
+        "TODO: metricas de mejora."
+      ]
+    },
+    {
+      "role": "Ayudante de Perforacion",
+      "company": "Hidrotec S.A.",
+      "location": "Cordillera",
+      "start": "2022-02",
+      "end": "2023-02",
+      "additional_period": "2023-07 - 2024-01",
+      "responsibilities": [
+        "Operacion, puesta en marcha y mantenimiento basico de equipos de exploracion en altura y condiciones exigentes.",
+        "Experiencia practica en sistemas hidraulicos, motores y equipos de perforacion."
+      ],
+      "todos": [
+        "TODO: tipos/modelos de equipos de perforacion.",
+        "TODO: tareas especificas de mantenimiento realizadas."
+      ]
+    },
+    {
+      "role": "Mecanico / Taller propio",
+      "company": "Actividad independiente",
+      "location": "Salta",
+      "start": "2020-08",
+      "end": "2022-01",
+      "additional_period": "2025-07 - Actualidad",
+      "responsibilities": [
+        "Diagnostico y reparacion de vehiculos livianos, camionetas, motocicletas, tractores y maquinaria.",
+        "Presupuestos y atencion al cliente."
+      ],
+      "todos": [
+        "TODO: volumen aproximado de trabajos/clientes.",
+        "TODO: herramientas o software usados en el taller, si aplica."
+      ]
+    },
+    {
+      "role": "Encargado de Operaciones",
+      "company": "Empresa de quebracho colorado",
+      "location": "Salta",
+      "start": "2019-02",
+      "end": "2020-08",
+      "responsibilities": [
+        "Coordinacion de personal.",
+        "Trato con clientes rurales.",
+        "Logistica de campo.",
+        "Ejecucion de estructuras rurales completas."
+      ],
+      "todos": [
+        "TODO: nombre formal de la empresa, si puede publicarse.",
+        "TODO: cantidad de personas coordinadas."
+      ]
+    }
+  ],
+  "skills": {
+    "maintenance": [
+      "OTs",
+      "avisos",
+      "preventivos",
+      "correctivos",
+      "paradas de planta",
+      "analisis de fallas",
+      "trazabilidad de tareas"
+    ],
+    "spare_parts_logistics": [
+      "stock",
+      "materiales criticos",
+      "proveedores",
+      "trazabilidad",
+      "envios a proyecto"
+    ],
+    "digital_tools": [
+      "SAP/ERP",
+      "Excel avanzado",
+      "VBA",
+      "reportes",
+      "Power BI basico"
+    ],
+    "mechanics": [
+      "hidraulica",
+      "motores",
+      "equipos de perforacion",
+      "vehiculos livianos",
+      "tractores",
+      "maquinaria"
+    ],
+    "software": [
+      "Swift",
+      "Flutter/Dart"
+    ],
+    "professional": [
+      "organizado",
+      "proactivo",
+      "analitico",
+      "adaptable",
+      "orientado a resultados"
+    ]
+  },
+  "projects": [
+    {
+      "name": "Aplicacion movil de gestion de mantenimiento",
+      "type": "Desarrollo personal",
+      "description": "Aplicacion orientada a talleres y mantenimiento industrial, integrando seguimiento de OTs, stock de repuestos, pedidos y analisis de fallas.",
+      "technologies": [
+        "Swift",
+        "Flutter/Dart"
+      ],
+      "todos": [
+        "TODO: nombre de la aplicacion.",
+        "TODO: estado actual del proyecto.",
+        "TODO: funcionalidades implementadas vs planificadas."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Tecnico en Sistemas Industriales",
+      "institution": "Universidad de Oriente",
+      "location": "Puerto Ordaz, Venezuela",
+      "period": "2012-2016",
+      "status": "Cursado completo, 2 materias pendientes de aprobacion formal"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Espanol",
+      "level": "Nativo"
+    },
+    {
+      "language": "Ingles",
+      "level": "Tecnico"
+    }
+  ],
+  "ats": {
+    "style": "profesional, tecnico, claro y compatible con ATS",
+    "avoid": [
+      "metricas inventadas",
+      "certificaciones no verificadas",
+      "SAP PM sin evidencia especifica",
+      "lenguaje inflado",
+      "disenos dificiles de parsear"
+    ],
+    "todos": [
+      "TODO: validar palabras clave por oferta antes de generar versiones.",
+      "TODO: completar metricas reales cuando existan."
+    ]
+  }
+}
+
