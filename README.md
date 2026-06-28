@@ -2,7 +2,7 @@
 
 Base maestra reutilizable para generar CVs adaptados a ofertas laborales, cover letters, respuestas para ATS/formularios, LinkedIn, elevator pitch y versiones PDF/DOCX/HTML.
 
-## Objetivo
+## Proposito del proyecto
 
 Mantener una fuente unica, versionable y verificable del perfil profesional de Bonifacio Morales. El sistema esta pensado para:
 
@@ -11,13 +11,20 @@ Mantener una fuente unica, versionable y verificable del perfil profesional de B
 - Evitar datos inventados, lenguaje inflado o metricas no comprobadas.
 - Marcar como TODO cualquier dato faltante o pendiente de validacion.
 
-## Fuentes
+## Estructura del repo
 
-- CV actual: `input/CV_Bonifacio_Morales.pdf`
-- Perfil estructurado: `profile/profile.master.json`
-- CV maestro editable: `cv_master/`
-- Keywords por vertical: `keywords/`
-- Plantillas reutilizables: `templates/`
+- `input/`: fuentes privadas locales. No versionar PDFs/DOCX originales.
+- `profile/`: perfil estructurado en JSON.
+- `cv_master/`: contenido maestro editable del CV en Markdown.
+- `keywords/`: keywords y riesgos por categoria.
+- `templates/`: plantillas para CV, cover letter, LinkedIn y formularios.
+- `job_posts/`: ofertas laborales crudas, parseadas y evaluadas.
+- `outputs/`: CVs y documentos generados. No versionar.
+- `docs/`: documentacion del sistema, privacidad y flujo de trabajo.
+
+## Advertencia de privacidad
+
+Este repositorio contiene datos personales y estrategia laboral. Debe mantenerse privado. No subir al repositorio archivos crudos como PDFs originales, DOCX originales, `.env`, secretos, exports de plataformas laborales ni documentos generados con datos sensibles.
 
 ## Flujo de uso recomendado
 
@@ -26,6 +33,22 @@ Mantener una fuente unica, versionable y verificable del perfil profesional de B
 3. Comparar la oferta contra `profile/profile.master.json` y `keywords/`.
 4. Crear una version adaptada usando `templates/cv_ats.md`, `templates/cover_letter.md` o la plantilla que corresponda.
 5. Guardar resultados en `outputs/` segun formato o canal.
+
+## Estado actual
+
+- Base maestra creada en Markdown, JSON y YAML.
+- Contenido inicial cargado desde el CV actual.
+- TODOs marcados donde faltan metricas, sistemas exactos o evidencia.
+- Reglas basicas de privacidad agregadas en `.gitignore`.
+- Normalizacion de line endings agregada en `.gitattributes`.
+
+## Proximos pasos
+
+- Revisar y completar TODOs con datos reales.
+- Confirmar sistemas exactos usados en SAP/ERP/CMMS.
+- Definir roles e industrias prioritarias.
+- Agregar ofertas laborales de prueba en `job_posts/raw/`.
+- Generar primeras versiones adaptadas solo cuando el contenido base este validado.
 
 ## Reglas editoriales
 
@@ -39,4 +62,3 @@ Mantener una fuente unica, versionable y verificable del perfil profesional de B
 ## Estado inicial
 
 Contenido cargado desde el PDF actual. La extraccion automatica fue posible, con normalizacion manual de acentos y caracteres.
-
