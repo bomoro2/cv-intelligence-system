@@ -22,5 +22,4 @@ TODO: definir disponibilidad real.
 
 Excel avanzado, VBA, SAP/ERP, Power BI basico, Swift y Flutter/Dart.
 
-Nota: no declarar SAP PM salvo confirmacion.
-
+Nota: no declarar modulos SAP especificos salvo confirmacion.

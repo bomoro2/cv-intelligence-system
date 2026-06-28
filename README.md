@@ -55,7 +55,7 @@ Este repositorio contiene datos personales y estrategia laboral. Debe mantenerse
 - Usar espanol profesional y tecnico.
 - Incluir keywords en ingles cuando sean terminos tecnicos habituales.
 - No inventar metricas, certificaciones, sistemas ni responsabilidades.
-- No usar "SAP PM" salvo que haya evidencia especifica.
+- No usar modulos SAP especificos salvo que haya evidencia especifica.
 - Marcar pendientes con `TODO:`.
 - Priorizar claridad ATS: titulos simples, keywords verificables, bullets concretos.
 

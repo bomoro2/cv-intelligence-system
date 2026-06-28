@@ -1,16 +1,37 @@
 [
   {
-    "name": "Aplicacion movil de gestion de mantenimiento",
-    "description": "Desarrollo personal orientado a talleres y mantenimiento industrial, integrando seguimiento de OTs, stock de repuestos, pedidos y analisis de fallas.",
+    "name": "Garage365",
+    "aliases": [
+      "G365"
+    ],
+    "type": "Desarrollo personal / producto SaaS industrial funcional",
+    "status": "Producto funcional, en expansion y mejora continua.",
+    "description": "Herramienta de digitalizacion operativa orientada a procesos industriales, mantenimiento, flotas, operaciones y servicios tecnicos.",
+    "current_use": "Uso inicial en entorno real por una empresa para registrar eventos/tareas vinculadas a uno de sus clientes, sin publicar nombres.",
+    "features": [
+      "alta de equipos",
+      "checklists",
+      "ordenes de trabajo",
+      "QR por equipo",
+      "sincronizacion con servidor",
+      "version mobile funcional",
+      "version desktop funcional",
+      "backend existente en desarrollo/despliegue"
+    ],
     "technologies": [
-      "Swift",
-      "Flutter/Dart"
+      "Flutter",
+      "Dart",
+      "C#",
+      ".NET 8",
+      "API web"
+    ],
+    "privacy": [
+      "No nombrar clientes.",
+      "GitHub privado; no mostrar por ahora."
     ],
     "todos": [
-      "TODO: nombre de la aplicacion.",
-      "TODO: estado actual del proyecto.",
-      "TODO: funcionalidades implementadas vs planificadas."
+      "TODO: confirmar si Render puede mencionarse como plataforma de despliegue.",
+      "TODO: documentar alcance tecnico publicable sin exponer clientes."
     ]
   }
 ]
-

@@ -14,7 +14,6 @@ evidence_from_cv:
   - Gestion y seguimiento de OTs, avisos, preventivos, correctivos y trazabilidad de tareas en sistema.
   - SAP/ERP indicado como herramienta digital.
 rules:
-  - No decir SAP PM sin evidencia especifica.
+  - No declarar modulos SAP especificos sin evidencia.
 todos:
   - "TODO: nombre exacto del sistema CMMS/ERP usado."
-

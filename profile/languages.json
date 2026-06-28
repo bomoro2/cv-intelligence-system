@@ -5,7 +5,11 @@
   },
   {
     "language": "Ingles",
-    "level": "Tecnico"
+    "level": "Tecnico",
+    "details": [
+      "lectura de documentacion tecnica",
+      "escritura limitada",
+      "no preparado actualmente para entrevista oral completa"
+    ]
   }
 ]
-

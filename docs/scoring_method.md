@@ -12,7 +12,7 @@ Este sistema usa un score interno para priorizar adaptaciones de CV. No represen
 
 ## Penalizaciones
 
-- -20 pts: declarar herramienta o modulo no comprobado, por ejemplo SAP PM sin evidencia.
+- -20 pts: declarar herramienta o modulo no comprobado.
 - -15 pts: declarar industria directa sin respaldo.
 - -10 pts: usar metricas no verificadas.
 - -10 pts: CV con formato dificil de leer por ATS.
@@ -25,4 +25,3 @@ Este sistema usa un score interno para priorizar adaptaciones de CV. No represen
 3. Comparar con `profile/profile.master.json`.
 4. Marcar gaps como TODO.
 5. Generar una version adaptada sin inventar datos.
-

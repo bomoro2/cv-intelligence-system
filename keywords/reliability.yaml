@@ -14,6 +14,5 @@ evidence_from_cv:
 notes:
   - RCA aparece como keyword tecnica relacionada, pero no esta explicitamente en el CV. Usar solo si la oferta lo pide y se puede justificar.
 todos:
-  - "TODO: confirmar si realizo RCA formal."
+  - "TODO: confirmar si realizo metodologia formal de confiabilidad."
   - "TODO: ejemplos de fallas recurrentes analizadas."
-

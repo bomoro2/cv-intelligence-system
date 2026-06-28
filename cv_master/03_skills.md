@@ -1,61 +1,96 @@
 # Habilidades clave
 
-## Mantenimiento
+## Mantenimiento y planificacion
 
 - OTs.
 - Avisos.
 - Preventivos.
 - Correctivos.
-- Paradas de planta.
-- Analisis de fallas.
+- Planificacion de servicios cada 300 horas.
+- Seguimiento de horometros.
+- Preventivos por kilometraje en vehiculos.
+- Semaforo de proximidad.
+- Ajuste de planes por cambio de uso.
+- Control de OTs correctivas.
+- Analisis de fallas resueltas y patrones probables.
 - Trazabilidad de tareas.
 
-## Repuestos y logistica
+## Repuestos, materiales y compras
 
+- Pedidos.
 - Stock.
+- Compras.
 - Materiales criticos.
-- Proveedores.
-- Trazabilidad.
+- Consumibles.
+- Filtros.
+- Aceites/lubricantes.
+- Correas.
+- Retenes.
+- Mangueras hidraulicas.
+- Bombas.
+- Motores.
+- Sensores.
+- Rodamientos.
+- Herramientas.
+- Equivalencias.
+- Seguimiento de plazos.
 - Envios a proyecto.
-- Herramientas y materiales.
+- Trazabilidad pedido -> compra -> entrega -> OT.
 
-## Herramientas digitales
+## Herramientas digitales y datos
 
-- SAP/ERP.
+- Sistema interno de gestion de activos y mantenimiento.
 - Excel avanzado.
+- Power Query.
+- Tablas dinamicas.
 - VBA.
-- Reportes.
-- Power BI basico.
+- Reportes operativos.
+- Power BI basico/en practica.
 
 ## Mecanica aplicada
 
 - Hidraulica.
 - Motores.
-- Equipos de perforacion.
+- Perforadoras diamantinas.
+- Perforadoras rotary.
+- Bombas de lodo.
+- Generadores.
+- Torres de iluminacion.
+- Compresores.
+- Boosters.
 - Vehiculos livianos.
 - Camionetas.
-- Motocicletas.
+- Camiones.
 - Tractores.
 - Maquinaria.
 
 ## Software y desarrollo
 
-- Swift.
-- Flutter/Dart.
-- Desarrollo de app propia de gestion de mantenimiento.
+- Garage365 / G365.
+- Flutter.
+- Dart.
+- C#.
+- .NET 8.
+- API web.
+- Backend en desarrollo/despliegue.
+- Sincronizacion con servidor.
+- QR por equipo.
+- Checklists.
+- OTs digitales.
 
 ## Competencias profesionales
 
 - Organizacion.
-- Proactividad.
-- Analisis.
+- Criterio tecnico.
+- Analisis operativo.
+- Seguimiento.
+- Coordinacion.
 - Adaptabilidad.
-- Orientacion a resultados.
+- Priorizacion diaria/semanal.
+- Orientacion a resultados verificables.
 
 ## TODOs
 
-- TODO: nivel exacto de SAP/ERP y modulos usados.
-- TODO: nivel de Power BI y ejemplos de reportes.
-- TODO: nivel de ingles tecnico.
-- TODO: tecnologias exactas usadas en la app movil.
+- TODO: confirmar nombre publicable del sistema interno de gestion.
+- TODO: confirmar si Render puede mencionarse como plataforma de despliegue.
 

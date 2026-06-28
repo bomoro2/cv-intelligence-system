@@ -11,7 +11,7 @@
 ## Reglas especificas para Bonifacio
 
 - Usar "SAP/ERP" hasta confirmar modulo exacto.
-- No usar "SAP PM" sin evidencia.
+- No usar modulos SAP especificos sin evidencia.
 - No declarar experiencia directa en oil & gas si la oferta solo comparte competencias transferibles.
 - No agregar metricas sin respaldo.
 - Mantener "Power BI basico" como nivel actual.
@@ -21,4 +21,3 @@
 - TODO: validar modulo SAP/ERP.
 - TODO: completar metricas reales.
 - TODO: confirmar nivel de ingles.
-

@@ -4,34 +4,60 @@
     "avisos",
     "preventivos",
     "correctivos",
-    "paradas de planta",
-    "analisis de fallas"
+    "planificacion de servicios cada 300 horas",
+    "seguimiento de horometros",
+    "semaforo de proximidad",
+    "control de OTs correctivas",
+    "analisis de fallas resueltas",
+    "trazabilidad de tareas"
   ],
   "spare_parts_logistics": [
     "stock",
+    "pedidos",
+    "compras",
     "materiales criticos",
     "proveedores",
-    "trazabilidad",
+    "equivalencias",
+    "trazabilidad pedido -> compra -> entrega -> OT",
     "envios a proyecto"
   ],
   "digital_tools": [
-    "SAP/ERP",
+    "sistema interno de gestion de activos y mantenimiento",
     "Excel avanzado",
+    "Power Query",
+    "tablas dinamicas",
     "VBA",
     "reportes",
-    "Power BI basico"
+    "Power BI basico/en practica"
   ],
   "mechanics": [
     "hidraulica",
     "motores",
-    "perforacion",
+    "perforadoras diamantinas",
+    "perforadoras rotary",
+    "bombas de lodo",
+    "generadores",
     "vehiculos livianos",
+    "camionetas",
+    "camiones",
     "tractores",
     "maquinaria"
   ],
   "software": [
-    "Swift",
-    "Flutter/Dart"
+    "Flutter",
+    "Dart",
+    "C#",
+    ".NET 8",
+    "API web",
+    "backend en desarrollo/despliegue"
+  ],
+  "professional": [
+    "organizacion",
+    "criterio tecnico",
+    "analisis operativo",
+    "seguimiento",
+    "coordinacion",
+    "adaptabilidad",
+    "orientacion a resultados verificables"
   ]
 }
-

@@ -1,27 +1,46 @@
 # Proyectos
 
-## Aplicacion movil de gestion de mantenimiento
+## Garage365 / G365
 
-Desarrollo personal orientado a talleres y mantenimiento industrial, integrando seguimiento de OTs, stock de repuestos, pedidos y analisis de fallas.
+Desarrollo personal y producto SaaS industrial funcional orientado a digitalizacion operativa en mantenimiento, flotas, operaciones y servicios tecnicos.
 
-## Tecnologias mencionadas en el CV
+## Estado
 
-- Swift.
-- Flutter/Dart.
+- Producto funcional.
+- En expansion y mejora continua.
+- Uso inicial en entorno real por una empresa para registrar eventos/tareas vinculadas a uno de sus clientes.
+- No publicar nombres de clientes.
+- GitHub privado; no mostrar por ahora.
 
-## Posible uso profesional
+## Alcance actual
 
-- Gestion de OTs.
-- Stock de repuestos.
-- Pedidos.
-- Analisis de fallas.
-- Soporte para talleres y mantenimiento industrial.
+- Alta de equipos.
+- Checklists.
+- Ordenes de trabajo.
+- QR por equipo.
+- Sincronizacion con servidor.
+- Version mobile funcional.
+- Version desktop funcional.
+- Backend existente en desarrollo/despliegue.
+
+## Tecnologias
+
+- Flutter / Dart para mobile y desktop.
+- C# / .NET 8 para backend.
+- API web para sincronizacion.
+- Backend orientado a operacion con servidor.
+
+## Problema que resuelve
+
+- Reduce el acceso lento a informacion operativa.
+- Facilita el registro de eventos industriales desde el telefono.
+- Digitaliza tareas, checklists, OTs y trazabilidad de equipos.
+- No esta pensado solo para talleres.
+- Esta orientado a procesos industriales, mantenimiento, flotas, operaciones y servicios tecnicos.
 
 ## TODOs
 
-- TODO: nombre de la aplicacion.
-- TODO: estado actual del proyecto.
-- TODO: plataforma objetivo: iOS, Android o ambas.
-- TODO: funcionalidades implementadas vs planificadas.
-- TODO: capturas, demo, repositorio o documentacion.
+- TODO: confirmar si Render puede mencionarse como plataforma de despliegue.
+- TODO: documentar alcance tecnico publicable sin exponer clientes.
+- TODO: definir si se usara Garage365 o G365 segun contexto.
 

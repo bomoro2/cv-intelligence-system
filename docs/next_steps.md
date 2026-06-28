@@ -36,7 +36,7 @@ Llegar a una primera version ATS clara, tecnica y verificable, sin inflar el per
    - Mantener bullets tecnicos, claros y verificables.
 
 7. Revisar riesgos antes de exportar
-   - Confirmar que no diga SAP PM.
+   - Confirmar que no declare modulos SAP especificos sin evidencia.
    - Confirmar que no use metricas inventadas.
    - Confirmar que oil & gas aparezca solo como objetivo o transferencia si no hay experiencia directa.
    - Confirmar que Garage365/app tenga estado real validado.
@@ -49,4 +49,3 @@ Llegar a una primera version ATS clara, tecnica y verificable, sin inflar el per
 - Brechas marcadas como TODO.
 - Sin archivos generados en `outputs/` hasta aprobacion.
 - Sin datos privados crudos versionados.
-

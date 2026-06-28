@@ -1,10 +1,31 @@
 {
   "language": "es",
-  "tone": "profesional, tecnico, directo, compatible con ATS",
+  "future_language_base": "en",
+  "tone": "profesional, tecnico, directo, sobrio, compatible con ATS",
+  "privacy": {
+    "public_versions_hide": [
+      "telefono",
+      "email",
+      "edad",
+      "clientes de Garage365",
+      "links privados",
+      "datos sensibles internos"
+    ],
+    "current_company_public_label": "empresa de servicios de perforacion / mantenimiento industrial",
+    "garage365_github": "privado; no mostrar por ahora"
+  },
+  "salary_expectation": {
+    "currency": "ARS",
+    "desired_floor_monthly": 2500000,
+    "ideal_monthly": 3500000,
+    "cv_policy": "No incluir pretension salarial en CV."
+  },
   "avoid": [
     "lenguaje inflado",
     "metricas inventadas",
-    "SAP PM sin evidencia especifica",
+    "modulo SAP especifico no comprobado",
+    "metodologia formal de confiabilidad no validada",
+    "mineria como experiencia directa en perforacion",
     "responsabilidades exageradas"
   ],
   "todo_policy": "Marcar informacion faltante con TODO claro y accionable.",
@@ -17,4 +38,3 @@
     "HTML"
   ]
 }
-

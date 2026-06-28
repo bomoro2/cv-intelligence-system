@@ -15,7 +15,7 @@ avoid_structures:
   - Fechas incompletas o contradictorias.
   - Mezclar experiencia objetivo con experiencia comprobada.
 ats_risks:
-  - Usar SAP PM sin evidencia especifica; el CV solo menciona SAP/ERP.
+  - Usar modulos SAP especificos sin evidencia; el CV solo menciona SAP/ERP o sistema interno.
   - Declarar experiencia directa en oil & gas si solo se usa como vertical objetivo.
   - Agregar metricas sin respaldo.
   - Usar abreviaturas sin contexto cuando la oferta usa terminos completos.
@@ -24,6 +24,5 @@ ats_risks:
 replacement_rules:
   - Cambiar "experto" por nivel verificable o herramienta concreta.
   - Cambiar "resultados comprobados" por resultado real o TODO.
-  - Cambiar "manejo de SAP PM" por "SAP/ERP" hasta confirmar modulo.
+  - Cambiar modulos SAP especificos por SAP/ERP o sistema interno hasta confirmar modulo.
   - Cambiar "industria oil & gas" por "competencias transferibles a oil & gas" si no hay experiencia directa.
-

@@ -1,15 +1,22 @@
 [
   {
-    "role": "Administrativo de Mantenimiento",
+    "role": "Administrativo de Mantenimiento / Oficina Tecnica",
     "company": "Hidrotec S.A.",
+    "public_company_name": "Empresa de servicios de perforacion / mantenimiento industrial",
     "location": "Salta",
     "period": "Ene 2024 - Actualidad",
     "responsibilities": [
-      "Gestion y seguimiento de OTs, avisos, preventivos, correctivos y trazabilidad de tareas en sistema.",
-      "Planificacion de mantenimientos, coordinacion de paradas, materiales, servicios externos y personal involucrado.",
-      "Control de repuestos, herramientas y materiales criticos para proyectos en zonas remotas.",
-      "Soporte tecnico y analisis de fallas recurrentes.",
-      "Participacion activa en auditorias operativas y mejora de reportes de mantenimiento."
+      "Control de informacion de OTs, avisos, preventivos, correctivos y trazabilidad de mantenimiento.",
+      "Seguimiento de datos operativos de mantenimiento sobre aprox. 150 equipos propios y relacion con aprox. 20 equipos alquilados.",
+      "Gestion de repuestos asociada a OTs, desde pedido de origen hasta uso real en la orden de trabajo.",
+      "Elaboracion y seguimiento de reportes de pedidos, tareas ejecutadas, horas operativas, repuestos e historicos de equipos.",
+      "Ajuste y seguimiento de planes preventivos segun horas de operacion, kilometros y cambios de uso."
+    ],
+    "metrics": [
+      "aprox. 760 tareas/OTs mensuales como estimacion conservadora",
+      "aprox. 3000 lineas de pedido en 6 meses",
+      "promedio aprox. 500 lineas de pedido mensuales",
+      "reduccion de articulos derivados a compras desde mas de 300 mensuales a aprox. 50 mensuales"
     ]
   },
   {
@@ -18,8 +25,10 @@
     "location": "Cordillera",
     "period": "Feb 2022 - Feb 2023 / Jul 2023 - Ene 2024",
     "responsibilities": [
-      "Operacion, puesta en marcha y mantenimiento basico de equipos de exploracion en altura y condiciones exigentes.",
-      "Experiencia practica en sistemas hidraulicos, motores y equipos de perforacion."
+      "Trabajo en pozos de agua con plataforma de perforacion rotary, bombas de lodo y equipos auxiliares.",
+      "Preparacion de fluidos de perforacion, limpieza de circuito de lodo y mantenimiento basico de bomba de lodo.",
+      "Control visual de maquina durante operacion, apoyo a mecanicos y operacion puntual de la maquina.",
+      "Identificacion de tipos de terreno y adaptacion operativa de maquina/fluidos segun condicion."
     ]
   },
   {
@@ -28,8 +37,9 @@
     "location": "Salta",
     "period": "Ago 2020 - Ene 2022 / Jul 2025 - Actualidad",
     "responsibilities": [
-      "Diagnostico y reparacion de vehiculos livianos, camionetas, motocicletas, tractores y maquinaria.",
-      "Presupuestos y atencion al cliente."
+      "Diagnostico y mantenimiento general en motocicletas, autos, camionetas, camiones y tractores.",
+      "Trabajos en motor, frenos, suspension, electricidad/electronica e hidraulica.",
+      "Presupuestos, recomendacion/compra de repuestos y atencion a clientes."
     ]
   },
   {
@@ -38,11 +48,10 @@
     "location": "Salta",
     "period": "Feb 2019 - Ago 2020",
     "responsibilities": [
-      "Coordinacion de personal.",
-      "Trato con clientes rurales.",
-      "Logistica de campo.",
-      "Ejecucion de estructuras rurales completas."
+      "Compra y venta de postes de quebracho colorado.",
+      "Expansion hacia servicios rurales y proyectos completos.",
+      "Coordinacion con proveedores, clientes, camiones, permisos, materiales y cuadrilla de aprox. 10 personas para alambrado.",
+      "Incremento de ventas de aprox. 1 camion mensual a aprox. 8 camiones mensuales."
     ]
   }
 ]
-

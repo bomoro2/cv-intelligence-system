@@ -55,7 +55,7 @@ Resultado: archivos legibles y organizados por categoria. No se detectaron dupli
 ## Riesgos detectados
 
 - El perfil todavia no tiene metricas verificadas: OTs mensuales, equipos gestionados, tiempos, volumen de repuestos o mejoras.
-- `SAP/ERP` esta declarado de forma generica. No hay evidencia para decir `SAP PM`.
+- `SAP/ERP` esta declarado de forma generica. No hay evidencia para declarar un modulo especifico.
 - `RCA` y `root cause analysis` aparecen como keywords tecnicas en reliability, pero el archivo ya aclara que no estan explicitamente comprobadas.
 - `oil & gas` aparece como vertical objetivo. No debe presentarse como experiencia directa sin evidencia.
 - La app de gestion de mantenimiento esta mencionada, pero falta estado real, alcance y nombre. Si el nombre es Garage365, debe confirmarse antes de usarlo.
@@ -97,4 +97,3 @@ Resultado: archivos legibles y organizados por categoria. No se detectaron dupli
 4. Normalizar pequenas diferencias entre `profile.master.json` y archivos separados.
 5. Crear una primera oferta laboral de prueba en `job_posts/raw/`.
 6. Generar un CV ATS v1 solo despues de resolver los TODOs criticos o dejarlos marcados de forma explicita.
-

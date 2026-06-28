@@ -3,8 +3,9 @@
   "location": "Salta, Argentina",
   "phone": "3872-209161",
   "email": "bonifacio.morales18@gmail.com",
-  "age": 30,
-  "headline": "Tecnico Industrial | Planificacion de Mantenimiento | Gestion de OTs y Repuestos",
+  "public_contact_policy": "Ocultar telefono/email en versiones publicas.",
+  "headline": "Tecnico Industrial | Planificacion de Mantenimiento | Oficina Tecnica | OTs y Repuestos",
+  "linkedin": "Existe, pendiente de mejora.",
+  "garage365_github": "Privado; no mostrar por ahora.",
   "source": "input/CV_Bonifacio_Morales.pdf"
 }
-

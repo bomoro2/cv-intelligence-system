@@ -4,39 +4,173 @@
     "location": "Salta, Argentina",
     "phone": "3872-209161",
     "email": "bonifacio.morales18@gmail.com",
-    "age": 30,
-    "headline": "Tecnico Industrial | Planificacion de Mantenimiento | Gestion de OTs y Repuestos",
+    "public_contact_policy": "Ocultar telefono/email en versiones publicas.",
+    "public_company_policy": "En versiones publicas usar denominacion generica para empresa actual.",
+    "headline": "Tecnico Industrial | Planificacion de Mantenimiento | Oficina Tecnica | OTs y Repuestos",
+    "linkedin": "Existe, pendiente de mejora.",
+    "garage365_github": "Privado; no mostrar por ahora.",
     "source": "input/CV_Bonifacio_Morales.pdf"
   },
-  "target_roles": [
-    "Planificador de mantenimiento",
-    "Administrativo de mantenimiento",
-    "Analista de mantenimiento",
-    "Coordinador de repuestos",
-    "Soporte tecnico de mantenimiento",
-    "Fleet maintenance support",
-    "Maintenance planner",
-    "CMMS maintenance analyst"
+  "target": {
+    "primary_cv_language": "es",
+    "future_language_base": "en",
+    "job_search_scope": [
+      "Argentina",
+      "internacional",
+      "remoto"
+    ],
+    "employment_type": [
+      "relacion de dependencia",
+      "proyectos remotos"
+    ],
+    "dual_objective": "Empleo bien pago y crecimiento de Garage365.",
+    "target_roles": [
+      "Maintenance Planner",
+      "Planificador de Mantenimiento",
+      "Oficina Tecnica de Mantenimiento",
+      "Material Controller",
+      "Repuestos / Abastecimiento tecnico",
+      "Supervisor de Mantenimiento",
+      "CMMS Consultant",
+      "Customer Success Industrial",
+      "SaaS Industrial / Software industrial"
+    ],
+    "target_industries": [
+      "mantenimiento industrial",
+      "perforacion",
+      "flotas",
+      "talleres",
+      "mineria como industria objetivo",
+      "SaaS industrial",
+      "digitalizacion de operaciones"
+    ],
+    "availability": [
+      "viajes",
+      "campo",
+      "roster",
+      "proyectos remotos",
+      "mineria",
+      "mudanza si el lugar es tranquilo/familiar"
+    ]
+  },
+  "licenses": [
+    {
+      "type": "A1.2",
+      "scope": "motos"
+    },
+    {
+      "type": "B1",
+      "scope": "autos y camionetas"
+    }
   ],
   "experience": [
     {
-      "role": "Administrativo de Mantenimiento",
+      "role": "Administrativo de Mantenimiento / Oficina Tecnica",
       "company": "Hidrotec S.A.",
+      "public_company_name": "Empresa de servicios de perforacion / mantenimiento industrial",
       "location": "Salta",
       "start": "2024-01",
       "end": "Actualidad",
+      "scope": {
+        "own_equipment": "aprox. 150 equipos propios",
+        "rented_equipment": "aprox. 20 equipos alquilados actuales",
+        "indirect_visibility": [
+          "aprox. 80 camionetas gestionadas por un companero",
+          "aprox. 40 camiones gestionados por otro companero"
+        ],
+        "active_projects": 6,
+        "mechanics_project_rotation": "aprox. 12 mecanicos en rotacion, 6 activos y 6 de descanso",
+        "mechanics_base": "aprox. 10 mecanicos fijos",
+        "monthly_tasks_estimate": "aprox. 760 tareas/OTs mensuales como estimacion conservadora"
+      },
       "responsibilities": [
-        "Gestion y seguimiento de OTs, avisos, preventivos, correctivos y trazabilidad de tareas en sistema.",
-        "Planificacion de mantenimientos, coordinacion de paradas, materiales, servicios externos y personal involucrado.",
-        "Control de repuestos, herramientas y materiales criticos para proyectos en zonas remotas.",
-        "Soporte tecnico y analisis de fallas recurrentes.",
-        "Participacion en auditorias operativas y mejora de reportes de mantenimiento."
+        "Control de informacion de OTs, avisos, preventivos, correctivos y trazabilidad de mantenimiento.",
+        "Seguimiento de datos operativos de mantenimiento para evitar retrasos, errores y tareas reactivas.",
+        "Gestion de repuestos asociada a OTs, desde pedido de origen hasta uso real en la orden de trabajo.",
+        "Coordinacion con compras, seguimiento de plazos, resolucion de dudas tecnicas y validacion de equivalencias.",
+        "Ajuste y seguimiento de planes preventivos existentes segun horas de operacion, kilometros y cambios de uso.",
+        "Control de calidad de carga en OTs correctivas, solicitud de correcciones y escalamiento ante demoras importantes.",
+        "Elaboracion y seguimiento de reportes de pedidos, tareas ejecutadas, horas operativas, repuestos e historicos de equipos."
+      ],
+      "equipment": [
+        "perforadoras diamantinas",
+        "perforadoras rotary",
+        "bombas de lodo",
+        "generadores",
+        "torres de iluminacion",
+        "compresores",
+        "boosters"
+      ],
+      "critical_equipment": [
+        "perforadoras",
+        "generadores"
+      ],
+      "systems": {
+        "company_system": "Sistema propio de la empresa para gestion de activos y mantenimiento.",
+        "functions": [
+          "OTs",
+          "avisos",
+          "preventivos",
+          "correctivos",
+          "pedidos",
+          "stock",
+          "compras",
+          "historial",
+          "reportes",
+          "consulta y seguimiento de repuestos"
+        ],
+        "excel": [
+          "herramienta maestra de control",
+          "datos exportados del sistema interno",
+          "limpieza, consolidacion, control y analisis de informacion operativa"
+        ],
+        "power_query": [
+          "relacion de datos aislados exportados del sistema",
+          "transformacion, limpieza y consolidacion de datos"
+        ],
+        "pivot_tables": [
+          "visualizacion de pendientes y estados"
+        ],
+        "vba": [
+          "filtrado avanzado de requerimientos",
+          "control de inconsistencias",
+          "deteccion de repuestos marcados como no cumplidos cuando ya estaban cumplidos"
+        ],
+        "power_bi": "Nivel basico/en practica."
+      },
+      "reports": [
+        "Pedidos pendientes / estado de requerimientos: quincenal para proyectos, semanal para gerencia y diario para control propio.",
+        "Tareas ejecutadas / control de horas operativas: dos veces al mes.",
+        "Cruce entre tareas ejecutadas, repuestos solicitados/usados y estado de pedidos.",
+        "Horas de equipos e historicos para analizar uso, promedios de utilizacion y cambios de planificacion."
+      ],
+      "parts_materials": {
+        "categories": [
+          "consumibles",
+          "filtros",
+          "aceites/lubricantes",
+          "correas",
+          "retenes",
+          "mangueras hidraulicas",
+          "bombas",
+          "motores",
+          "sensores",
+          "rodamientos",
+          "herramientas",
+          "repuestos criticos"
+        ],
+        "volume": "aprox. 3000 lineas de pedido en los ultimos 6 meses; promedio aprox. 500 lineas mensuales",
+        "traceability": "pedido -> compra -> entrega -> OT"
+      },
+      "impact": [
+        "Reduccion de articulos derivados a compras desde mas de 300 mensuales a aprox. 50 mensuales, mediante validacion tecnica, planificacion y gestion interna.",
+        "Mejora de disponibilidad de informacion centralizada para priorizacion diaria/semanal.",
+        "Reduccion de pedidos innecesarios o problematicos mediante control de requerimientos.",
+        "Equipos que podian permanecer cerca de 1 mes en taller se resuelven en muchos casos en aprox. 1 semana, segun gravedad."
       ],
       "todos": [
-        "TODO: cantidad de OTs mensuales.",
-        "TODO: cantidad de equipos gestionados.",
-        "TODO: sistemas exactos usados.",
-        "TODO: metricas de mejora."
+        "TODO: confirmar si las metricas se pueden publicar en CV externo.",
+        "TODO: confirmar nombre exacto del sistema interno si puede mencionarse."
       ]
     },
     {
@@ -46,13 +180,26 @@
       "start": "2022-02",
       "end": "2023-02",
       "additional_period": "2023-07 - 2024-01",
-      "responsibilities": [
-        "Operacion, puesta en marcha y mantenimiento basico de equipos de exploracion en altura y condiciones exigentes.",
-        "Experiencia practica en sistemas hidraulicos, motores y equipos de perforacion."
+      "drilling_type": "pozos de agua",
+      "working_conditions": [
+        "boca de pozo",
+        "turnos de 12 horas",
+        "esquema 20 dias arriba / 10 dias de descanso",
+        "condiciones operativas exigentes"
       ],
-      "todos": [
-        "TODO: tipos/modelos de equipos de perforacion.",
-        "TODO: tareas especificas de mantenimiento realizadas."
+      "equipment": [
+        "plataforma de perforacion rotary",
+        "bombas de lodo",
+        "equipos auxiliares"
+      ],
+      "responsibilities": [
+        "Preparacion de fluidos de perforacion y limpieza de circuito de lodo.",
+        "Mantenimiento basico de bomba de lodo.",
+        "Control visual de maquina durante operacion para detectar perdidas o novedades.",
+        "Apoyo a mecanicos en reparaciones.",
+        "Operacion puntual de la maquina.",
+        "Identificacion de tipos de terreno y adaptacion operativa de maquina y fluidos segun condicion.",
+        "Comprension del proceso completo de perforacion de un pozo de agua."
       ]
     },
     {
@@ -62,13 +209,25 @@
       "start": "2020-08",
       "end": "2022-01",
       "additional_period": "2025-07 - Actualidad",
-      "responsibilities": [
-        "Diagnostico y reparacion de vehiculos livianos, camionetas, motocicletas, tractores y maquinaria.",
-        "Presupuestos y atencion al cliente."
+      "positioning": "Usar como respaldo tecnico salvo roles operativos.",
+      "equipment": [
+        "motocicletas",
+        "autos",
+        "camionetas",
+        "camiones",
+        "tractores"
       ],
-      "todos": [
-        "TODO: volumen aproximado de trabajos/clientes.",
-        "TODO: herramientas o software usados en el taller, si aplica."
+      "responsibilities": [
+        "Diagnostico, mantenimiento general y reparaciones en motor, frenos, suspension, electricidad/electronica e hidraulica.",
+        "Atencion a clientes cuando el trabajo ingresaba directamente.",
+        "Presupuestos, recomendacion y compra de repuestos.",
+        "Trabajo con ayuda en reparaciones mayores y trabajo individual en tareas livianas, electricidad/electronica y motos."
+      ],
+      "learning": [
+        "Importancia del registro tecnico.",
+        "Cuidado en diagnostico y reparacion.",
+        "Necesidad de informacion accesible para ejecutar trabajos correctamente.",
+        "Base conceptual que impulso Garage365."
       ]
     },
     {
@@ -78,14 +237,16 @@
       "start": "2019-02",
       "end": "2020-08",
       "responsibilities": [
-        "Coordinacion de personal.",
-        "Trato con clientes rurales.",
-        "Logistica de campo.",
-        "Ejecucion de estructuras rurales completas."
+        "Compra y venta de postes de quebracho colorado.",
+        "Propuesta de expansion hacia servicios rurales y proyectos completos.",
+        "Coordinacion con proveedores, clientes, camiones, permisos y materiales.",
+        "Logistica desde campo hasta destino final.",
+        "Coordinacion eventual de carga de camiones y cuadrilla de aprox. 10 personas para alambrado.",
+        "Ejecucion de feedlots/corrales, cargadores, mangas, toriles, cercado completo de fincas y renovacion de postes."
       ],
-      "todos": [
-        "TODO: nombre formal de la empresa, si puede publicarse.",
-        "TODO: cantidad de personas coordinadas."
+      "impact": [
+        "Incremento de ventas de aprox. 1 camion mensual a aprox. 8 camiones mensuales.",
+        "Desarrollo de servicios/proyectos adicionales que elevaron fuertemente la facturacion."
       ]
     }
   ],
@@ -95,57 +256,97 @@
       "avisos",
       "preventivos",
       "correctivos",
-      "paradas de planta",
-      "analisis de fallas",
+      "planificacion de servicios cada 300 horas",
+      "seguimiento de horometros",
+      "semaforo de proximidad",
+      "control de OTs correctivas",
+      "analisis de fallas resueltas",
       "trazabilidad de tareas"
     ],
     "spare_parts_logistics": [
       "stock",
+      "pedidos",
+      "compras",
       "materiales criticos",
       "proveedores",
-      "trazabilidad",
+      "equivalencias",
+      "trazabilidad pedido -> compra -> entrega -> OT",
       "envios a proyecto"
     ],
     "digital_tools": [
-      "SAP/ERP",
+      "sistema interno de gestion de activos y mantenimiento",
       "Excel avanzado",
+      "Power Query",
+      "tablas dinamicas",
       "VBA",
       "reportes",
-      "Power BI basico"
+      "Power BI basico/en practica"
     ],
     "mechanics": [
       "hidraulica",
       "motores",
-      "equipos de perforacion",
+      "perforadoras diamantinas",
+      "perforadoras rotary",
+      "bombas de lodo",
+      "generadores",
       "vehiculos livianos",
+      "camionetas",
+      "camiones",
       "tractores",
       "maquinaria"
     ],
     "software": [
-      "Swift",
-      "Flutter/Dart"
+      "Flutter",
+      "Dart",
+      "C#",
+      ".NET 8",
+      "API web",
+      "backend en desarrollo/despliegue"
     ],
     "professional": [
-      "organizado",
-      "proactivo",
-      "analitico",
-      "adaptable",
-      "orientado a resultados"
+      "organizacion",
+      "criterio tecnico",
+      "analisis operativo",
+      "seguimiento",
+      "coordinacion",
+      "adaptabilidad",
+      "orientacion a resultados verificables"
     ]
   },
   "projects": [
     {
-      "name": "Aplicacion movil de gestion de mantenimiento",
-      "type": "Desarrollo personal",
-      "description": "Aplicacion orientada a talleres y mantenimiento industrial, integrando seguimiento de OTs, stock de repuestos, pedidos y analisis de fallas.",
+      "name": "Garage365",
+      "aliases": [
+        "G365"
+      ],
+      "type": "Desarrollo personal / producto SaaS industrial funcional",
+      "status": "Producto funcional, en expansion y mejora continua.",
+      "privacy": [
+        "No nombrar clientes.",
+        "GitHub privado; no mostrar por ahora."
+      ],
+      "description": "Herramienta de digitalizacion operativa orientada a procesos industriales, mantenimiento, flotas, operaciones y servicios tecnicos.",
+      "current_use": "Uso inicial en entorno real por una empresa para registrar eventos/tareas vinculadas a uno de sus clientes, sin publicar nombres.",
+      "features": [
+        "alta de equipos",
+        "checklists",
+        "ordenes de trabajo",
+        "QR por equipo",
+        "sincronizacion con servidor",
+        "version mobile funcional",
+        "version desktop funcional",
+        "backend existente en desarrollo/despliegue"
+      ],
       "technologies": [
-        "Swift",
-        "Flutter/Dart"
+        "Flutter",
+        "Dart",
+        "C#",
+        ".NET 8",
+        "API web"
       ],
       "todos": [
-        "TODO: nombre de la aplicacion.",
-        "TODO: estado actual del proyecto.",
-        "TODO: funcionalidades implementadas vs planificadas."
+        "TODO: confirmar si Render puede mencionarse como plataforma de despliegue.",
+        "TODO: documentar alcance tecnico publicable sin exponer clientes."
       ]
     }
   ],
@@ -155,9 +356,22 @@
       "institution": "Universidad de Oriente",
       "location": "Puerto Ordaz, Venezuela",
       "period": "2012-2016",
-      "status": "Cursado completo, 2 materias pendientes de aprobacion formal"
+      "status": "Cursado academico completo, 2 materias pendientes para titulacion formal"
     }
   ],
+  "certifications": {
+    "current": [],
+    "roadmap": [
+      "Excel avanzado",
+      "Power Query",
+      "Power BI",
+      "Maintenance Planning",
+      "CMMS",
+      "Confiabilidad basica",
+      "Seguridad/HSE",
+      "SAP/ERP basico si aplica"
+    ]
+  },
   "languages": [
     {
       "language": "Espanol",
@@ -165,22 +379,38 @@
     },
     {
       "language": "Ingles",
-      "level": "Tecnico"
+      "level": "Tecnico",
+      "details": [
+        "lectura de documentacion tecnica",
+        "escritura limitada",
+        "no preparado actualmente para entrevista oral completa"
+      ]
     }
   ],
   "ats": {
-    "style": "profesional, tecnico, claro y compatible con ATS",
+    "style": "profesional, tecnico, claro, sobrio y compatible con ATS",
+    "public_cv_rules": [
+      "sin telefono/email",
+      "sin edad",
+      "sin pretension salarial",
+      "sin foto",
+      "sin tablas",
+      "sin iconos",
+      "una columna"
+    ],
     "avoid": [
       "metricas inventadas",
       "certificaciones no verificadas",
-      "SAP PM sin evidencia especifica",
-      "lenguaje inflado",
-      "disenos dificiles de parsear"
+      "modulo SAP especifico no comprobado",
+      "metodologia formal de confiabilidad no validada",
+      "mineria como experiencia directa en perforacion",
+      "nombres de clientes de Garage365",
+      "links privados",
+      "lenguaje inflado"
     ],
     "todos": [
-      "TODO: validar palabras clave por oferta antes de generar versiones.",
-      "TODO: completar metricas reales cuando existan."
+      "TODO: validar que metricas sensibles puedan publicarse en CV externo.",
+      "TODO: confirmar plataforma de despliegue de Garage365."
     ]
   }
 }
-

@@ -1,13 +1,22 @@
 [
   {
-    "achievement": "Participacion en auditorias operativas",
-    "evidence": "CV actual",
-    "metrics": "TODO: resultados o alcance de auditorias."
+    "achievement": "Reduccion de articulos derivados a compras",
+    "evidence": "Datos relevados 2026-06-28",
+    "metrics": "De mas de 300 articulos mensuales a aprox. 50 articulos mensuales derivados a compras, mediante validacion tecnica, planificacion y gestion interna."
   },
   {
-    "achievement": "Mejora de reportes de mantenimiento",
-    "evidence": "CV actual",
-    "metrics": "TODO: metricas de mejora."
+    "achievement": "Mejora de disponibilidad de informacion operativa",
+    "evidence": "Datos relevados 2026-06-28",
+    "metrics": "Informacion centralizada para priorizacion diaria/semanal, seguimiento de pendientes, compras/repuestos y ajustes de planificacion."
+  },
+  {
+    "achievement": "Reduccion de permanencia de equipos en taller en casos gestionables",
+    "evidence": "Datos relevados 2026-06-28",
+    "metrics": "Equipos que podian permanecer cerca de 1 mes en taller se resuelven en muchos casos en aprox. 1 semana, segun gravedad."
+  },
+  {
+    "achievement": "Crecimiento operativo en empresa de quebracho colorado",
+    "evidence": "Datos relevados 2026-06-28",
+    "metrics": "Incremento de ventas de aprox. 1 camion mensual a aprox. 8 camiones mensuales."
   }
 ]
-
